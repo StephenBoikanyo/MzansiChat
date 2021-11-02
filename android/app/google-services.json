@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "471056067046",
+    "project_id": "mzanzi-chat",
+    "storage_bucket": "mzanzi-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471056067046:android:f8fba0f91f2bcce41fce27",
+        "android_client_info": {
+          "package_name": "com.stephen.mzansichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471056067046-fvag7umu7luftm9unlf29iqsjmmvmbnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfR9oJf581aPEjZXWcZ-xAQftc5mAUlvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471056067046-fvag7umu7luftm9unlf29iqsjmmvmbnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471056067046-bu8cg7lqq7odgie46ho6u2006cjge891.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stephen.mzansichat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
